@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, everyone.👋 
+
+My name is Nicole and I'm currently teaching myself coding. I come from a science background and hoping to one day incorporate the two worlds together.😊
+
+Some things about me: 
+- I’m currently working on freeCodeCamp.
+- I’m currently learning Applied Visual Design in CSS.
+- I’m looking for help with...everything lol.
+- Pronouns: She/Her
+- Fun fact: I take kickboxing as a way to de-stress.
 
 <!--
 **Npcodes1/Npcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
