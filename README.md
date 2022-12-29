@@ -13,6 +13,7 @@ My name is Nicole and I'm a coding newbie. I come from a science/healthcare back
 - CSS
 
 ## What I'm working on:
+ - Personal Portfolio
  - JavaScript (in freeCodeCamp)
  - Harvard's CS50W
 
