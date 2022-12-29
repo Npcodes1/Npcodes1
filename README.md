@@ -18,7 +18,7 @@ My name is Nicole and I'm a coding newbie. I come from a science/healthcare back
 
 ## Connect with me!
  - You can find me on my [Linkedin](https://www.linkedin.com/in/nicole-payne-60615343/).
- - Or send me a [message](nicole1rock@gmail.com).
+ - Or send me a [message](mailto:nicole1rock@gmail.com).
 
 <!--
 **Npcodes1/Npcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
