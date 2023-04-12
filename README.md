@@ -14,8 +14,8 @@ My name is Nicole and I'm a coder. I come from a science/healthcare background w
 
 ## What I'm working on:
  - Personal Portfolio
- - JavaScript (in freeCodeCamp)
- - Harvard's CS50W
+ - JavaScript and React
+ - Harvard's CS50X
 
 ## Connect with me!
  - You can find me on my [Linkedin](https://www.linkedin.com/in/nicole-payne-60615343/).
