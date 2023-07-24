@@ -13,9 +13,10 @@ My name is Nicole and I'm a coder. I come from a science/healthcare background w
 - CSS
 
 ## What I'm working on:
- - Personal Portfolio
+ - [Personal Portfolio](https://npcodes1.github.io/)
  - JavaScript and React
- - Harvard's CS50X
+ - Codecademy
+ - Sololearn
 
 ## Connect with me!
  - You can find me on my [Linkedin](https://www.linkedin.com/in/nicole-payne-60615343/).
