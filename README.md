@@ -1,6 +1,6 @@
 # Hi there, everyone!👋
 
-My name is Nicole and I'm a coder. I come from a science/healthcare background with over 8 years of experience in molecular and microbiology testing. I currently work in a lab as a Medical Technologist, testing all the fun stuff like TB and STDs. My background has taught me how to deal and thrive in highly stressful situations, be able to adapt, accept constructive criticism and colloborate with others, maintain patience and professionalism even if it's not returned, and troubleshooting quickly and efficiently. I'm really excited to be able to apply all of these in my journey into tech. 😊
+My name is Nicole and I'm a coder. I come from a science/healthcare background with over 8 years of experience in molecular and microbiology testing. I currently work in a lab as a Medical Technologist, testing all the fun stuff like TB and STDs. My background has taught me how to deal and thrive in highly stressful situations, be able to adapt, accept constructive criticism and collaborate with others, maintain patience and professionalism even if it's not returned, and troubleshooting quickly and efficiently. I'm really excited to be able to apply all of these in my journey into tech. 😊
 
 ## Some things about me: 
 - I love puzzles and brainteasers.🧩
