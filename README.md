@@ -20,11 +20,11 @@ My name is Nicole and I'm a coder. I come from a science/healthcare background w
 
 ## What I'm working on:
  - ![image](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/codesquad/original.gif?1582933071)
- - [Personal Portfolio](https://npcodes1.github.io/)
+ - [Personal Portfolio](https://nicolepayne.dev/)
 
 ## Connect with me!
  - You can find me on my [Linkedin](https://www.linkedin.com/in/nicole-payne-60615343/).
- - Or send me a [message](mailto:nicole1rock@gmail.com).
+ - Or send me a [message](mailto:nicolepaynedev@gmail.com).
 
 <!--
 **Npcodes1/Npcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
